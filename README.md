@@ -40,7 +40,7 @@ Uma dessas ideias, é a criação de uma  **Pequeno Semáforo**.
 ### Este projeto está sob a licença [MIT](./LICENSE).
 ---
 
-<h4 align=center>Desenvolvido por Felipe Santos e personalizado por mim (Danilo Gaspar) <a href="https://www.linkedin.com/in/danilo-gaspar98/"> <strong>Entre em contato</strong> :)</a></a></h4>
+<h4 align=center>Desenvolvido por Felipe Santos e personalizado por Danilo Gaspar <a href="https://idolink.bio/redessociaisdg"> <strong>Entre em contato</strong> :)</a></a></h4>
 
 
 
