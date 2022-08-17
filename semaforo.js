@@ -9,15 +9,15 @@ let sinal_automatico = document.getElementById("automatic")
 
 
 sinal_vermelho.addEventListener("click", () => {
-    alert("O semáforo vai fechar!!!");
+    alert("O semáforo vai fechar!");
 })
 
 sinal_amarelo.addEventListener("click", () => {
-    alert("Atenção dobrada para não causar acidentes, estamos indo para o amarelo!!!");
+    alert("Atenção dobrada para não causar acidentes, estamos indo para o amarelo!");
 })
 
 sinal_verde.addEventListener("click", () => {
-    alert("Clique em ok para abrir o semáforo!!!");
+    alert("Clique em ok para abrir o semáforo!");
 })
 
 sinal_automatico.addEventListener("click", () => {
