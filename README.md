@@ -1,14 +1,14 @@
 <p align="center">
-   <img src="https://github.com/felipesantos10/semaforo/blob/master/github/Captura%20de%20tela%20de%202020-10-01%2000-13-14.png" alt="semáforo" />
+   <img src="https://github.com/dangspr/Semaforo/blob/master/github/Captura%20de%20tela%20de%202020-10-01%2000-13-14.png" alt="semáforo" />
 </p>
 
 <!-- Badges -->
-<!-- <p align="center">
-   <a href="https://www.linkedin.com/in/luis-felipe-santos-silva-5623a8197/">
-      <img alt="Felipe Martins" src="https://img.shields.io/badge/-Felipe Santos-blue?style=flat&logo=Linkedin&logoColor=bluee" />
+<p align="center">
+   <a href="https://www.linkedin.com/in/danilo-gaspar98/">
+      <img alt="Danilo Gaspar" src="https://img.shields.io/badge/LinkedIn%20--%20-Danilo%20Gaspar-blue" />
    </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
-</p> -->
+</p>
 
 <!-- Indice-->
 <p align="center">
@@ -40,7 +40,7 @@ Uma dessas ideias, é a criação de uma  **Pequeno Semáforo**.
 ### Este projeto está sob a licença [MIT](./LICENSE).
 ---
 
-<h4 align=center>Desenvolvido por Felipe Santos e alterado por mim (Danilo Gaspar) <a href="https://www.linkedin.com/in/danilo-gaspar98/"> <strong>Entre em contato</strong> :)</a></a></h4>
+<h4 align=center>Desenvolvido por Felipe Santos e personalizado por mim (Danilo Gaspar) <a href="https://www.linkedin.com/in/danilo-gaspar98/"> <strong>Entre em contato</strong> :)</a></a></h4>
 
 
 
