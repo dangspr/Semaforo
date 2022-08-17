@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/dangspr/Semaforo/blob/master/github/Captura%20de%20tela%20de%202020-10-01%2000-13-14.png" alt="semáforo" />
+   <img src="https://github.com/dangspr/Semaforo/blob/master/github/planodefundo.png" alt="semáforo" />
 </p>
 
 <!-- Badges -->
