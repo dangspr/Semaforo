@@ -9,19 +9,19 @@ let sinal_automatico = document.getElementById("automatic")
 
 
 sinal_vermelho.addEventListener("click", () => {
-    alert("Aguarde!!!");
+    alert("O semáforo vai fechar!!!");
 })
 
 sinal_amarelo.addEventListener("click", () => {
-    alert("Atenção!!!");
+    alert("Atenção dobrada para não causar acidentes, estamos indo para o amarelo!!!");
 })
 
 sinal_verde.addEventListener("click", () => {
-    alert("Siga!!!");
+    alert("Clique em ok para abrir o semáforo!!!");
 })
 
 sinal_automatico.addEventListener("click", () => {
-    alert("O Semáforo está quebrado, siga as orientações do guarda!!!");
+    alert("O Semáforo está apresentando problemas, siga as orientações do guarda!!!");
 })
 
 
