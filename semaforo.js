@@ -2,8 +2,30 @@ const img = document.getElementById( 'img' );
 const buttons = document.getElementById( 'buttons' );
 let colorIndex = 0;
 let intervalId = null;
+let sinal_vermelho = document.getElementById("red");
+let sinal_amarelo = document.getElementById("yellow");
+let sinal_verde = document.getElementById("green");
+let sinal_automatico = document.getElementById("automatic")
 
-const trafficLight = (event) => {
+
+sinal_vermelho.addEventListener("click", () => {
+    alert("Aguarde!!!");
+})
+
+sinal_amarelo.addEventListener("click", () => {
+    alert("Atenção!!!");
+})
+
+sinal_verde.addEventListener("click", () => {
+    alert("Siga!!!");
+})
+
+sinal_automatico.addEventListener("click", () => {
+    alert("O Semáforo está quebrado, siga as orientações do guarda!!!");
+})
+
+
+function trafficLight(event) {
     stopAutomatic();
     turnOn[event.target.id]();
 }
@@ -29,3 +51,4 @@ const turnOn = {
 }
 
 buttons.addEventListener('click', trafficLight );
+

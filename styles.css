@@ -11,8 +11,22 @@ main {
     align-items: center;
     justify-content: center;
     gap: 5vh;
+    background-image: url("./img/City.jpg");
+    background-size: cover;
+           
+}
+
+main #img {
+    border-radius: 81px;
+    border-left-width: 10px;
+    border: 6px solid;
 }
 .button {
-    width: 80px;
+    width: 100px;
     height: 30px;
+    border-radius: 20px 20px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
